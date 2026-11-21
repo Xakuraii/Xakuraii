@@ -1,11 +1,21 @@
-## Profile
+<!-- studio:settings user=Xakuraii theme=radical hl=2 border=show follow=on light=vue -->
+
+<!-- studio:header -->
+<h1 align="center">Welcome to Xakuraii!</h1>
+
+<p align="center">Xaku Projects uses AI to turn ideas into useful open-source applications that simplify life and boost productivity.</p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=xakuraii&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256725072%3Fu%3D4ed23219811e2229c2ca12cd9d8f26f3d328bad2%26v%3D4" alt="xakuraii hero visual" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xakuraii/Xakuraii/main/profile-assets/typing-dark.svg?lines=XakuProjects;Open%20Source&font=VT323&size=22&width=470&center=true" />
+    <img src="https://raw.githubusercontent.com/Xakuraii/Xakuraii/main/profile-assets/typing-light.svg?lines=XakuProjects;Open%20Source&font=VT323&size=22&width=470&center=true" alt="XakuProjects. Open Source" />
+  </picture>
 </p>
 
-## Tech Stack
-
+<!-- studio:langs -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=xakuraii&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256725072%3Fu%3D4ed23219811e2229c2ca12cd9d8f26f3d328bad2%26v%3D4" alt="xakuraii stack visual" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xakuraii/Xakuraii/main/profile-assets/card-langs-dark.svg?layout=donut&langs_count=20" />
+    <img src="https://raw.githubusercontent.com/Xakuraii/Xakuraii/main/profile-assets/card-langs-light.svg?layout=donut&langs_count=20" alt="Top languages" />
+  </picture>
 </p>
